@@ -9,6 +9,11 @@
 [![Twitter](https://img.shields.io/badge/@AlbertAbdilim-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/AlbertAbdilim) [![Weibo](https://img.shields.io/badge/@Albert__Abdilim-E6162D?style=flat-square&logo=sina-weibo&logoColor=white)](https://weibo.com/1935602951) [![Email](https://img.shields.io/badge/albert.abdilim@foxmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:albert.abdilim@foxmail.com)
 
 
+### My GitHub Stats
+
+![Mingyang's github stats](https://github-readme-stats.vercel.app/api?username=liamlmy&show_icons=true)
+
+⭐️ From [L1cardo](https://github.com/liamlmy)
 
 <!--
 **liamlmy/liamlmy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
