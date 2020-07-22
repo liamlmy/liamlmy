@@ -1,5 +1,7 @@
 ### Hi there, I'm Mingyang Li 👋
 
+I currently work in [DiDi](https://www.didiglobal.com/) R-Lab as a Machine Learning Engineer.
+
 ### Languages and Tools:
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white)
